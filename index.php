@@ -6,7 +6,7 @@ spl_autoload_register(function ($class_name) {
 
 $tree = new \Classes\Tree();
 
-include 'api.php';
+include 'handles.php';
 
 ?>
 <!doctype html>
